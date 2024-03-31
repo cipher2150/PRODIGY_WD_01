@@ -1,7 +1,7 @@
 window.addEventListener('scroll', function() {
     var navbar = document.getElementById('navigation');
     if (window.scrollY > 50) { 
-      navbar.style.backgroundColor = '#555'; 
+      navbar.style.backgroundImage = '#e5d4ff'; 
     } else {
       navbar.style.backgroundColor = '#333';
     }

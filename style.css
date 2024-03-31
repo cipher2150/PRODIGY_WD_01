@@ -45,6 +45,10 @@ body {
     border-radius: 15px;
   }
 
+  .contain:hover {
+    background-image: radial-gradient(#dfffff, #dcbfff, #e5d4ff);
+  }
+
   .heading{
     color: #e493b3;
     font-size: 35px;
