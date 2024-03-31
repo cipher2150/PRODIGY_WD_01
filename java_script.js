@@ -15,4 +15,6 @@ window.addEventListener('scroll', function() {
         card.style.backgroundColor = '#f6f5f5';
     }
   });
+
+
   
